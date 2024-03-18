@@ -1,7 +1,7 @@
 # Личный проект «Седона»
 
-* Студент: [Степан Копытов](https://up.htmlacademy.ru/htmlcss-individual/1/user/2512245).
-* Наставник: `Неизвестно`.
+* Студент: [Степан Романович Копытов](https://up.htmlacademy.ru/htmlcss-individual/1/user/2512245).
+* Наставник: [Артём Картавый](https://htmlacademy.ru/profile/artem_k)
 
 ---
 
